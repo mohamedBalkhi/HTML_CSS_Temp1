@@ -428,10 +428,10 @@ body {
 }
 @media (max-width: 767px) {
   .contact .info .label {
-    font-size: 25px;
+    font-size: 22px;
   }
   .contact .info .link {
-    font-size: 25px;
+    font-size: 22px;
   }
 }
 /* End Contact  */
